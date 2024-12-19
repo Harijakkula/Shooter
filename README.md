@@ -63,7 +63,7 @@ Sound effects and background music obtained from https://www.zapsplat.com.
 Fonts used: Roboto Black Italic from Google Fonts (https://fonts.google.com/specimen/Roboto).
 
 **Author**
-Your Name - JakkulaHarikrishna
+Name - JakkulaHarikrishna
 
 
 
