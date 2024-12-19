@@ -64,6 +64,8 @@ Fonts used: Roboto Black Italic from Google Fonts (https://fonts.google.com/spec
 
 **Author**
 Name - JakkulaHarikrishna
+Email - jakkulaharikrishna413@gmail.com
+
 
 
 
